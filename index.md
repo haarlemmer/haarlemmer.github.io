@@ -3,4 +3,4 @@
 ## 派派,我真**谢谢你
 
 派派真让我伤心，他把我的有20米长，连1%都没用完的修正带打坏了......
-(阅读更多)[blog.hihaar.top/post/paipai-wo-zhen-tm-xiexie-ni.md]
+[阅读更多](blog.hihaar.top/post/paipai-wo-zhen-tm-xiexie-ni.md)
