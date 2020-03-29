@@ -1,17 +1,4 @@
-# HAARLEMMER
+# 文章
 
-This is a test page.
-
-
-
-## link test
-
-[HAARLEMMER](http://106.13.5.48)
-
-
-
-## code test
-
-`
-print("hello world")
-`
+## 
+(派派,我真**谢谢你)[blog.hihaar.top/post/paipai-wo-zhen-tm-xiexie-ni]
