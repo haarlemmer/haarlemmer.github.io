@@ -1,4 +1,3 @@
-### [Files](/files.md)
 
 ## 文章
 
@@ -11,3 +10,5 @@
 
 最近花9块钱买了这个hihaar.top域名，但想不到......
 [**阅读更多**](/post/jia-yuming-huan-github.md)
+
+### [Files](/files.md)
