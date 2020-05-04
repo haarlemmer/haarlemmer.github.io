@@ -23,4 +23,4 @@ print(f"名字: {lis3[0]} \
 
 | Path | URL | Password |
 |------|-----|----------|
-| study/requests/GuPiao.py | [Link](http://106.13.5.48/s/eznQsg6P5DXDagB) | [View](/files.md) |
+| study/requests/GuPiao.py | [Link](http://106.13.5.48/s/eznQsg6P5DXDagB) | [View](/files.html) |
