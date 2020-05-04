@@ -10,4 +10,4 @@
 
 | Path | URL | Password |
 |------|-----|----------|
-| study/requests/GuPiao.py | [Link](http://106.13.5.48/s/eznQsg6P5DXDagB) | [View](/files.md) |
+| guoqi.py | [Link](http://106.13.5.48/s/eznQsg6P5DXDagB) | [View](/files.md) |
