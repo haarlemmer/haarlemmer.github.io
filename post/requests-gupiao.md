@@ -4,19 +4,34 @@
 
 ```python
 import requests
-code = input("Code: ")
-r = requests.get(f"http://hq.sinajs.cn/list={code}")
-lis1 = r.text.split("=")
-lis2 = lis1[1].split('"')
-lis3 = lis2[1].split(',')
-print(f"名字: {lis3[0]} \
-    \n今日开盘价: {lis3[1]} \
-    \n昨日收盘价: {lis3[2]} \
-    \n当前价格: {lis3[3]} \
-    \n今日最高价: {lis3[4]} \
-    \n今日最低价: {lis3[5]} \
-    \n成交股票数: {lis3[8]} \
-    \n成交金额: {lis3[9]}")
+def chaxun(code):
+    r = requests.get(f"http://hq.sinajs.cn/list={code}")
+    lis1 = r.text.split("=")
+    lis2 = lis1[1].split('"')
+    lis3 = lis2[1].split(',')
+    return f"名称: {lis3[0]} \
+        \n今日开盘价: {lis3[1]} \
+        \n昨日收盘价: {lis3[2]} \
+        \n当前价格: {lis3[3]} \
+        \n今日最高价: {lis3[4]} \
+        \n今日最低价: {lis3[5]} \
+        \n成交股票数: {lis3[8]} \
+        \n成交金额: {lis3[9]} \
+        \n"
+def main():
+    code = input("Code: ")
+    try:
+        codes = eval(code)
+    except:
+        print(chaxun(code))
+    if type(codes) == list:
+        for x in codes:
+            print(chaxun(x))
+    else:
+        print("Error")
+        exit(1)
+if __name__ == "__main__":
+    main()
 ```
 
 ### Files
