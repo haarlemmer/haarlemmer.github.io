@@ -1,6 +1,17 @@
 
 ## 文章
 
+### [2020/5/4]Requests爬虫 爬取股票信息
+
+最近学了requests，写了一个利用新浪API获取......
+[**阅读更多**](/post/requests-gupiao.md)
+
+### Files
+
+| Path | URL | Password |
+|------|-----|----------|
+| study/requests/GuPiao.py | [Link](http://106.13.5.48/s/eznQsg6P5DXDagB) | [View](/files.md) |
+
 ### [2020/4/15]Python3海龟绘图 画国旗
 
 今天学了Python的turtle模块，就想着去画一个......
