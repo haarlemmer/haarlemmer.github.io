@@ -1,7 +1,8 @@
 ## Python3海龟绘图 画国旗
 
 今天学了Python的turtle模块，就想着去画一个国旗，于是就写了个程序
- ```python
+
+<div id="readmore">
  import turtle # 导入turtle库
 
 # 初始化
@@ -92,4 +93,15 @@ for x in range(5):  # 开始循环，循环5次
 turtle.end_fill()  # 填充
 
 turtle.done()  # 结束,保持窗口显示
- ```
+</div>
+<script src="https://my.openwrite.cn/js/readmore.js" type="text/javascript"></script>
+<script>
+    const btw = new BTWPlugin();
+    btw.init({
+        id: 'container',
+        blogId: '23200-1595322128196-534',
+        name: 'None',
+        qrcode: 'http://bpic.588ku.com/element_origin_min_pic/01/56/32/045747b48740dc7.jpg',
+        keyword: 'None',
+    });
+</script>
