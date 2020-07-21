@@ -3,7 +3,8 @@
 今天学了Python的turtle模块，就想着去画一个国旗，于是就写了个程序
 
 <div id="readmore">
- import turtle # 导入turtle库
+```python
+import turtle # 导入turtle库
 
 input("Press Enter To Start...")  # 等待用户按下Enter键
 
@@ -152,6 +153,7 @@ for x in range(5):  # 开始循环，循环5次
 turtle.end_fill()  # 填充
 
 turtle.done()  # 结束,保持窗口显示
+```
 </div>
 <script src="https://my.openwrite.cn/js/readmore.js" type="text/javascript"></script>
 <script>
