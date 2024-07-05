@@ -46,5 +46,7 @@ GPU：GeForce RTX 4070 Laptop GPU
 
 ## EOF
 hihaar
+
 hihaar [at] outlook [dot] com
+
 *Make Hypothtical be real_*
