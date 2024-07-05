@@ -44,5 +44,7 @@ GPU：GeForce RTX 4070 Laptop GPU
 ## 结语
 顺便提一句，我也买了一台差不多的电脑，但我从来不会像您这样到处炫耀。毕竟，我买电脑是为了使用，而不是为了显摆。或许，有些人就是需要通过这些来获得自我满足感吧。希望您能从中找到快乐。请记住，真正懂电脑的人靠的是实力，而不是嘴皮子。
 
-##
+## EOF
+hihaar
+hihaar [at] outlook [dot] com
 *Make Hypothtical be real_*
