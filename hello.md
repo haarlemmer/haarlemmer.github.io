@@ -11,5 +11,11 @@
 
 最后，谭先生，您不妨放下这份高高在上的优越感，毕竟，硬件再好，也未必能弥补操作水平的不足。
 
+## 送给谭先生的一首歌
+<audio controls>
+  <source src="/TJHYourPCSucks.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 ## 前情提要
 ![Screenshot](/weScreenshot.jpg)
