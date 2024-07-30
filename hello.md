@@ -14,7 +14,7 @@
 ## 送给谭先生的一首歌
 <audio controls>
   <source src="/TJHYourPCSucks.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+哦谭先生您使用的是甚么老掉牙的浏览器，连音频播放都不支持？
 </audio>
 
 *语音转文字之后调音的哦，谭先生觉得好不好听？*
