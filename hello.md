@@ -17,5 +17,6 @@
 Your browser does not support the audio element.
 </audio>
 
+*语音转文字之后调音的哦，谭先生觉得好不好听？*
 ## 前情提要
 ![Screenshot](/weScreenshot.jpg)
